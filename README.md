@@ -9,4 +9,8 @@
     <td>Rodrigo Andrade</td>
     <td>Professor</td>
   </tr>
+  <tr>
+    <td>Felipe Libório</td>
+    <td>Desenvolvedor</td>
+  </tr>
 </table>
