@@ -9,4 +9,8 @@
     <td>Rodrigo Andrade</td>
     <td>Professor</td>
   </tr>
+  <tr>
+    <td>João Bosco Jr</td>
+    <td>analista de software jr</td>
+  </tr>
 </table>
