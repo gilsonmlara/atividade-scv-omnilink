@@ -17,4 +17,8 @@
     <td>Felipe Libório</td>
     <td>Desenvolvedor</td>
   </tr>
+  <tr>
+    <td>João Bosco Jr</td>
+    <td>analista de software jr</td>
+  </tr>
 </table>
